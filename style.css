@@ -142,9 +142,8 @@ figure img:hover {
 }
 
 figure a {
-	opacity: 0.2;
 	display: block;
-	color: #000;
+	color: #0027FF;
 	font-size: 0.8rem;
 	font-style: normal;
 	font-weight: 400;
